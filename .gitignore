@@ -1,0 +1,31 @@
+# Directories to ignore
+bin/
+obj/
+.vscode/
+.idea/
+
+# User-specific files
+*.user
+*.suo
+*.swp
+
+# Logs
+*.log
+
+# Environment-specific files
+appsettings.Development.json
+appsettings.Test.json
+
+# NuGet packages
+*.nupkg
+packages/
+
+# Dotnet CLI build results
+*.dll
+*.exe
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Azure DevOps
+azure-pipelines.yml
